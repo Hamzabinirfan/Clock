@@ -6,3 +6,4 @@ A clock built with HTML, CSS, and JavaScript. The clock displays the current tim
 Responsive design
 Customizable# Clock
 
+# Clock
